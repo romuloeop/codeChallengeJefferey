@@ -1,3 +1,7 @@
+# Definir API KEY
+
+Colocar en la variable de ambiente `REACT_APP_CHATSCOPE_API_KEY` en el archivo `.env`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
