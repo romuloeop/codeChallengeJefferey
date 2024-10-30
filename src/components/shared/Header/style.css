@@ -1,0 +1,7 @@
+.App-Header {
+    background-color: #c6e3fa;
+    & > h1 {
+        margin: 0;
+        padding: 0.67rem;
+    }
+}
